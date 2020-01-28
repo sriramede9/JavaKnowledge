@@ -11,4 +11,8 @@
 
 ### Anagrams [using sort technique and Hashmap technique as we can have sorted set of keys in HMap]
 
+### eliminate duplicates in a list,find second min and second max in a list
+
 #### Diff btw String Concat and + ,+ will create a new string obj everytime
+
+
