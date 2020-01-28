@@ -7,6 +7,8 @@
 
 ### count vowel pairs in the given String [hint:if charat[i] is vowel then check char[i+i] is also a vowel ]
 
+### TreeSet takes no duplicates,sort the input,insertion order not preserved and to reverse the order use tsobj.descendingIterator()
+
 #### Regex and pattern mathing in java.util 
 
 ### Anagrams [using sort technique and Hashmap technique as we can have sorted set of keys in HMap]
