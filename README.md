@@ -15,6 +15,8 @@
 
 ### Eliminate duplicates in a list,find second min and second max in a list
 
+### Find if String Contains any number using regex use ^[a-zA-Z]*$ or .*[0-9].*
+
 ### Replace Null values with default in a Map using Streams
 
 #### Diff btw String Concat and + ,+ will create a new string obj everytime
