@@ -17,7 +17,20 @@
 
 ### Find if String Contains any number using regex use ^[a-zA-Z]*$ or .*[0-9].*
 
+
 ### Replace Null values with default in a Map using Streams
+
+### Check if String contains only Alphabets
+
+```
+
+// using lambdas
+		if (!string.isEmpty() && string != null) {
+			
+System.out.println(string.chars().allMatch(Character::isLetter));
+		}
+
+```
 
 #### Diff btw String Concat and + ,+ will create a new string obj everytime
 
